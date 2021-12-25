@@ -6115,7 +6115,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lightObj: {fileID: 1554746754}
   leverObject: {fileID: 74770891}
-  maxDistance: 6.07
+  maxDistance: 2
   player: {fileID: 1145234998}
   lever: {fileID: 74770892}
   engineOn: {fileID: 2129703002}
