@@ -4016,6 +4016,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef174caac7fc98f4a9f289f0cd5d8377, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isInUncrouchableTrigger: 0
 --- !u!143 &1145234994
 CharacterController:
   m_ObjectHideFlags: 0
@@ -4718,8 +4719,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 2.5961647, y: 3.7223434, z: 0.11269379}
-  m_Center: {x: 1.3004932, y: 1.3611717, z: 0.043281555}
+  m_Size: {x: 2.5961647, y: 3.383772, z: 0.11269379}
+  m_Center: {x: 1.3004932, y: 1.5304575, z: 0.043281555}
 --- !u!95 &1418486241
 Animator:
   serializedVersion: 3
