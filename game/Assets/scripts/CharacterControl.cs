@@ -73,7 +73,7 @@ public class CharacterControl : MonoBehaviour
     void UnCrouch()
     {
         controller.height = 3f;
-        speed = 4f;
+        speed = 5f;
         jumpSpeed = 8f;
     }
 }
