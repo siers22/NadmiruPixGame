@@ -19316,7 +19316,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nameTriggerClose: Close
   doorObject: {fileID: 2144907710}
-  sceneName: game
+  sceneName: game5
   menuLoading: {fileID: 43629870}
 --- !u!65 &1686406324
 BoxCollider:
