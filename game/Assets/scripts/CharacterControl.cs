@@ -66,14 +66,12 @@ public class CharacterControl : MonoBehaviour
     void Crouch()
     {
         controller.height = 2f;
-        speed = 3.5f;
-        jumpSpeed = 5.5f;
+       
     }
     
     void UnCrouch()
     {
         controller.height = 3f;
-        speed = 5f;
-        jumpSpeed = 8f;
+       
     }
 }
