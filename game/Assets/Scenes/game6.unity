@@ -8228,7 +8228,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 81630d9c801797743a9c81c93239c08a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 30.374
+      value: 30.277
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 81630d9c801797743a9c81c93239c08a, type: 3}
       propertyPath: m_LocalPosition.y
@@ -8236,7 +8236,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 81630d9c801797743a9c81c93239c08a, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -209.636
+      value: -209.61
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 81630d9c801797743a9c81c93239c08a, type: 3}
       propertyPath: m_LocalRotation.w
@@ -8276,11 +8276,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81630d9c801797743a9c81c93239c08a, type: 3}
---- !u!4 &1492774778 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 81630d9c801797743a9c81c93239c08a, type: 3}
-  m_PrefabInstance: {fileID: 1492774777}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1502949969
 GameObject:
   m_ObjectHideFlags: 0
@@ -10164,12 +10159,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1842835950}
-  m_LocalRotation: {x: -0, y: -0, z: -0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 0.052614085, y: 0.011368449, z: 0.049961694}
-  m_LocalScale: {x: 0.15059455, y: 0.29783025, z: 0.30054694}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 30.2684, y: 121.2398, z: -209.5722}
+  m_LocalScale: {x: 0.113924816, y: 0.22530866, z: 0.22736375}
   m_Children: []
-  m_Father: {fileID: 1492774778}
-  m_RootOrder: 1
+  m_Father: {fileID: 0}
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1842835955
 MonoBehaviour:
@@ -10183,7 +10178,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0fe91dc95abf6340bf000297a411b00, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nameTrigger: 5BUP
+  nameTrigger: 
   nameTrigger2: 
   nameAnimButton: 
   nameAnimButton2: 

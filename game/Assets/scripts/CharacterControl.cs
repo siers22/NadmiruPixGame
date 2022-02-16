@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class CharacterControl : MonoBehaviour
 {
-    public static float speed = 5.5f;
+    public static float speed = 4f;
     public static float jumpSpeed = 8f;
     public static float gravity = 20f;
     private Vector3 moveDir = Vector3.zero;
