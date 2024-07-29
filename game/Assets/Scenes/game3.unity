@@ -38,11 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 0.783
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 1942308562}
-<<<<<<< Updated upstream
   m_IndirectSpecularColor: {r: 0.010438754, g: 0.011685813, b: 0.010438754, a: 0.783}
-=======
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
->>>>>>> Stashed changes
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -52852,8 +52848,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1448191809}
   m_LocalRotation: {x: 0.7071068, y: 0, z: 0.7071068, w: 0}
-  m_LocalPosition: {x: 25.7292, y: 9.3745, z: -33.4042}
-  m_LocalScale: {x: 0.17477387, y: 10.107537, z: 22.990686}
+  m_LocalPosition: {x: 30.0257, y: 9.3745, z: -33.4042}
+  m_LocalScale: {x: 0.17477387, y: 10.107537, z: 31.58495}
   m_Children: []
   m_Father: {fileID: 903456561}
   m_RootOrder: 24
@@ -58142,8 +58138,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1602154697}
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 19.2291, y: 6.77, z: 16.29}
-  m_LocalScale: {x: 1, y: 15.581628, z: 9.640459}
+  m_LocalPosition: {x: 17.98, y: 6.77, z: 16.29}
+  m_LocalScale: {x: 1, y: 15.581628, z: 12.138578}
   m_Children: []
   m_Father: {fileID: 903456561}
   m_RootOrder: 28
@@ -58349,7 +58345,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1607376247}
   m_LocalRotation: {x: 0.7071068, y: 0, z: 0.7071068, w: 0}
-  m_LocalPosition: {x: 3.23, y: 40.26, z: -33.407}
+  m_LocalPosition: {x: 3.23, y: 11.194, z: -33.407}
   m_LocalScale: {x: 0.1860369, y: 1.6426452, z: 1.2269175}
   m_Children: []
   m_Father: {fileID: 903456561}
@@ -63485,8 +63481,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1771495687}
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 32.9663, y: 6.77, z: 16.29}
-  m_LocalScale: {x: 1, y: 15.581628, z: 9.719359}
+  m_LocalPosition: {x: 34.1762, y: 6.77, z: 16.29}
+  m_LocalScale: {x: 1, y: 15.581628, z: 12.138578}
   m_Children: []
   m_Father: {fileID: 903456561}
   m_RootOrder: 7
