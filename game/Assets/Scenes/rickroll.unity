@@ -742,7 +742,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: bf1025482d20b6e46a606d71fe374c7d, type: 2}
+  - {fileID: 2100000, guid: 582becfbe45ee8c44938817eedf0f6ac, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -781,7 +781,7 @@ Transform:
   m_GameObject: {fileID: 2019837530}
   m_LocalRotation: {x: 0, y: 0, z: 1, w: 0}
   m_LocalPosition: {x: 0.066, y: 1.0219, z: -4.61}
-  m_LocalScale: {x: 10.255101, y: 5.8130264, z: 1}
+  m_LocalScale: {x: 14.96527, y: 5.8130264, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
@@ -800,7 +800,7 @@ VideoPlayer:
   m_TargetCamera: {fileID: 0}
   m_TargetTexture: {fileID: 0}
   m_TimeReference: 0
-  m_TargetMaterialRenderer: {fileID: 0}
+  m_TargetMaterialRenderer: {fileID: 2019837532}
   m_TargetMaterialProperty: _MainTex
   m_RenderMode: 3
   m_AspectRatio: 2
